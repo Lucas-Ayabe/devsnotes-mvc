@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules": true,
+        "vendor": false,
+        "package.json": true,
+        "composer.json": false,
+        "yarn.lock": true,
+        "composer.lock": true,
+        ".editorconfig": true
+    }
+}
